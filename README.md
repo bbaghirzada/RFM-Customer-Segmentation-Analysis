@@ -28,6 +28,7 @@ This project focuses on calculating Customer Lifetime Value (CLV) using cohort a
 4. **RFM Segmentation**:
    - Customers are segmented based on their Recency, Frequency, and Monetary scores.
    - This segmentation helps in identifying high-value customers, at-risk customers, and potential loyalists.
+   - The customer segments and their behavior visualized using Tableau.
 
 ## SQL Queries
 
